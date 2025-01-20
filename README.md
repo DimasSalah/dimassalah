@@ -8,6 +8,9 @@
 
 <p align="left">Hey there! 👋 I'm a Flutter developer who loves creating awesome apps for Android and iOS. Right now, I'm living the freelance life on Upwork, turning cool ideas into sleek mobile apps. 🚀 When I’m not coding, you’ll probably find me geeking out over the latest tech trends or perfecting my coffee game. ☕ Let's build something amazing together!</p>
 
+- [![Gmail](https://img.shields.io/badge/Gmail-dimassalah10@gmail.com-EA4335?style=logo=gmail)](mailto:dimassalah10@gmail.com)
+- [![Upwork](https://img.shields.io/badge/Upwork-View%20Profile-6FDA44?style=logo=upwork)](https://www.upwork.com/freelancers/~01f7920f4123d5e681)
+
 ###
 
 ### ⚙️ Tech Stack
