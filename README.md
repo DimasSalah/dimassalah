@@ -2,7 +2,7 @@
 
 ###
 
-# Hello World! I'm Dimas who passionate in Mobile Developer
+## Hello World! Dimas here 
 
 ###
 
@@ -10,20 +10,18 @@
 
 ###
 
-# ⚙️ Tech Stack
-![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=white)
-
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=white)
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=white)
+## ⚙️ Tech Stack
+![Dart](https://img.shields.io/badge/-Dart-430607?style=flat&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-430607?style=flat&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-430607?style=flat&logo=c%2B%2B&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-430607?style=flat&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-430607?style=flat&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-430607?style=flat&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-430607?style=flat&logo=laravel&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-430607?style=flat&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-430607?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-430607?style=flat&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-430607?style=flat&logo=figma&logoColor=white)
 
 ###
 
@@ -34,7 +32,9 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/DimasSalah/DimasSalah/output/snake.svg" alt="Snake animation" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DimasSalah/DimasSalah/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DimasSalah/DimasSalah/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DimasSalah/DimasSalah/output/github-snake.svg" />
+</picture>
 ###
