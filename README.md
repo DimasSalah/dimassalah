@@ -2,7 +2,7 @@
 
 ###
 
-## Hello World! Dimas here 
+# Hello World, Dimas here!
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-## ⚙️ Tech Stack
+### ⚙️ Tech Stack
 ![Dart](https://img.shields.io/badge/-Dart-330506?style=flat&logo=dart&logoColor=white&scale=1.5)
 ![PHP](https://img.shields.io/badge/-PHP-330506?style=flat&logo=php&logoColor=white&scale=1.5)
 ![C++](https://img.shields.io/badge/-C++-330506?style=flat&logo=c%2B%2B&logoColor=white&scale=1.5)
