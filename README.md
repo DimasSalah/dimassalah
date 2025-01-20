@@ -42,4 +42,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DimasSalah/DimasSalah/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/DimasSalah/DimasSalah/output/github-snake.svg" />
 </picture>
-###
